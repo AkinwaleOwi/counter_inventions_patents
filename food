@@ -1,0 +1,6 @@
+0. greene cookie: cookie vending machine
+0a. load different doughs just like a vending machine. let it keep dough at the optimal temperature
+0b. digital display let them choose 1-12 at a time
+0c. push the dough to the bottom like a normal vending machine, bottom closes and it bakes the cookies,
+ 0ca. clean after each cook
+ 0cb. lock until cool enough to touch
